@@ -35,7 +35,7 @@
 ------------
 # GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mefeb169&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mefeb169&theme=onedark)](https://github.com/mefeb169/github-profile-trophy)
 
 ------------
 
