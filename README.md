@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Ahsan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mefeb169&theme=chartreuse-dark&hide_border=true&stroke=0000"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Usama's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mefeb169&theme=chartreuse-dark&hide_border=true&stroke=0000"/>
     </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 # GitHub Stats
 <p align="center">
-<img alt = "Muhammad Ahsan 's GitHub stats"src=https://github-readme-stats.vercel.app/api?username=Mefeb169&show_icons=true&theme=chartreuse-dark&icon_color=6AD600&count_private=True&border_radius=10 /> 
+<img alt = " 's GitHub stats"src=https://github-readme-stats.vercel.app/api?username=Mefeb169&show_icons=true&theme=chartreuse-dark&icon_color=6AD600&count_private=True&border_radius=10 /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mefeb169&theme=chartreuse-dark&border_radius=10" width = "205"/> </p>
 
 `P.S: Programming languages showed are based on projets I worked on.`
@@ -49,7 +49,7 @@
 
 
 # GitHub Contribution Graph
-[![Muhammad Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mefeb169&color=FFFFFF&line=6AD600&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Osama's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mefeb169&color=FFFFFF&line=6AD600&theme=react-dark)](https://github.com/mefeb169/github-readme-activity-graph)
 
 ------------
 
