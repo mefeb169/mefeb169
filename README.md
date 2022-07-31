@@ -12,7 +12,7 @@
 ------------
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/mefeb169/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Usama's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mefeb169&theme=chartreuse-dark&hide_border=true&stroke=0000"/>
     </a>
 </p>
