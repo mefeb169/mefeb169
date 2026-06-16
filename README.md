@@ -4,7 +4,8 @@
 
 ### Full-Stack Developer · 4+ Years of Experience
 
-[![Email](https://img.shields.io/badge/Email-suleman0996%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:suleman0996@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-mefeb169%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mefeb169@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-engrosama29%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:engrosama29@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mefeb169-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mefeb169)
 
 </div>
@@ -96,6 +97,7 @@ Auth            →  Passport.js, JWT, role-based access control
 
 *Open to collaborating on interesting projects — feel free to reach out!*
 
-[![Email](https://img.shields.io/badge/Get%20In%20Touch-suleman0996%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleman0996@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-mefeb169%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mefeb169@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-engrosama29%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:engrosama29@outlook.com)
 
 </div>
