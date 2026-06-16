@@ -75,14 +75,14 @@ I'm a passionate Full-Stack Developer with **4+ years** of experience building s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mefeb169&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mefeb169&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-nine-eta-93.vercel.app/api?username=mefeb169&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-nine-eta-93.vercel.app/api/top-langs/?username=mefeb169&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mefeb169&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mefeb169&theme=tokyonight&hide_border=true)
 
 </div>
 
