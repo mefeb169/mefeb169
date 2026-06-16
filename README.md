@@ -76,17 +76,7 @@ I'm a passionate Full-Stack Developer with **4+ years** of experience building s
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-nine-eta-93.vercel.app/api?username=mefeb169&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-</div>
-
----
-
-## Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
+<img height="180em" src="https://github-readme-stats-nine-eta-93.vercel.app/api/top-langs/?username=mefeb169&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
