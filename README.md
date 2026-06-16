@@ -14,12 +14,14 @@
 
 ## About Me
 
-I'm a passionate Full-Stack Developer with **4+ years** of experience building scalable desktop, web, and API-driven applications. I work across the entire stack — from rich .NET desktop apps with **WinForms**, **WPF**, and **DevExpress**, to modern web APIs with **ASP.NET** and **Node.js**, to reactive frontends with **React** and **TypeScript**.
+I'm a passionate Full-Stack Developer with **4+ years** of experience building scalable desktop, web, and API-driven applications across **Fintech** and **GIS/Mapping** domains. I work across the entire stack — from rich .NET desktop apps with **WinForms**, **WPF**, and **DevExpress**, to modern web APIs with **ASP.NET** and **Node.js**, to reactive frontends with **React** and **TypeScript**.
 
-- Designing and building RESTful APIs and backend services
-- Architecting multi-database solutions across relational and in-memory stores
+- Designing and building RESTful APIs and backend services with ASP.NET & NestJS
+- Architecting multi-database solutions across relational, spatial (PostGIS), and in-memory stores
+- Building **Fintech** platforms — payment flows, financial data processing, and secure transaction systems
+- Integrating **geospatial mapping** using OpenLayers + PostGIS for location-aware applications
 - Delivering full-stack web platforms with clean, typed codebases
-- Building enterprise-grade desktop applications with WPF/WinForms
+- Building enterprise-grade desktop applications with WPF/WinForms/DevExpress
 
 ---
 
@@ -57,9 +59,15 @@ I'm a passionate Full-Stack Developer with **4+ years** of experience building s
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
+### Geospatial & Mapping
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Auth & Patterns
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-6C757D?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -87,9 +95,21 @@ Desktop Apps    →  WPF / WinForms / DevExpress (enterprise-grade, data-heavy U
 Web APIs        →  ASP.NET Web API / NestJS / Express.js (RESTful, scalable backends)
 Web Frontends   →  React + TypeScript + TanStack (modern, typed SPAs)
 Data Layer      →  EF Core / Drizzle ORM across MSSQL, PostgreSQL, MySQL, Oracle
+Geospatial      →  OpenLayers + PostGIS for interactive mapping & spatial queries
 Caching         →  Redis for high-performance session & data caching
 Auth            →  Passport.js, JWT, role-based access control
 ```
+
+---
+
+## Domain Experience
+
+| Domain | Details |
+|---|---|
+| **Fintech** | Payment processing, financial data pipelines, secure transaction systems |
+| **Geospatial / GIS** | Location-aware apps with OpenLayers maps and PostGIS spatial queries |
+| **Enterprise Desktop** | Data-intensive WPF/WinForms apps for business operations |
+| **SaaS / Web Platforms** | Multi-tenant APIs, user management, reporting dashboards |
 
 ---
 
