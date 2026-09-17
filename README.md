@@ -2,8 +2,10 @@
 
 # Hi there, I'm Usama 👋
 
-### Full-Stack Developer · 4+ Years of Experience
+### Full-Stack Developer @DevMechanix · 3+ Years of Experience
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mefeb169.github.io-000000?style=flat-square&logo=vercel&logoColor=white)](https://mefeb169.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-engrosama29-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engrosama29)
 [![Gmail](https://img.shields.io/badge/Gmail-mefeb169%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mefeb169@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-engrosama29%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:engrosama29@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mefeb169-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mefeb169)
@@ -14,23 +16,23 @@
 
 ## About Me
 
-I'm a passionate Full-Stack Developer with **4+ years** of experience building scalable desktop, web, and API-driven applications across **Fintech** and **GIS/Mapping** domains. I work across the entire stack — from rich .NET desktop apps with **WinForms**, **WPF**, and **DevExpress**, to modern web APIs with **ASP.NET** and **Node.js**, to reactive frontends with **React** and **TypeScript**.
+I'm a Full-Stack Developer with **3+ years** of experience building end-to-end products — from the data layer and APIs to polished, responsive UIs — across the **.NET** and **JavaScript/TypeScript** ecosystems. I design RESTful APIs with **ASP.NET Core 8**, **Clean Architecture**, and **CQRS** on one project, and ship **React + TypeScript** SPAs backed by **Node.js/Express** microservices on another.
 
-- Designing and building RESTful APIs and backend services with ASP.NET & NestJS
-- Architecting multi-database solutions across relational, spatial (PostGIS), and in-memory stores
-- Building **Fintech** platforms — payment flows, financial data processing, and secure transaction systems
-- Integrating **geospatial mapping** using OpenLayers + PostGIS for location-aware applications
-- Delivering full-stack web platforms with clean, typed codebases
-- Building enterprise-grade desktop applications with WPF/WinForms/DevExpress
+- Building enterprise dashboards with ASP.NET Core, Clean Architecture, CQRS, and EF Core
+- Architecting monorepo platforms (pnpm/Turborepo) with Express, Drizzle ORM, and Passport JWT auth
+- Delivering **Fintech** platforms — financial modeling, money-flow systems, and secure transaction APIs
+- Building enterprise-grade desktop applications with WinForms and DevExpress
+- **AI-empowered developer** — using AI tooling to accelerate research, prototyping, and shipping, while owning architecture and quality
+
+A Computer Engineering graduate (Bahauddin Zakariya University), currently a Software Engineer at **DevMechanix**.
 
 ---
 
 ## Tech Stack
 
-### Backend
+### Backend & APIs
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -38,13 +40,11 @@ I'm a passionate Full-Stack Developer with **4+ years** of experience building s
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Desktop
-![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
 
@@ -58,10 +58,6 @@ I'm a passionate Full-Stack Developer with **4+ years** of experience building s
 ### ORM & Data Access
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-### Geospatial & Mapping
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Auth & Patterns
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
@@ -91,14 +87,25 @@ I'm a passionate Full-Stack Developer with **4+ years** of experience building s
 ## What I Build
 
 ```
-Desktop Apps    →  WPF / WinForms / DevExpress (enterprise-grade, data-heavy UIs)
-Web APIs        →  ASP.NET Web API / NestJS / Express.js (RESTful, scalable backends)
-Web Frontends   →  React + TypeScript + TanStack (modern, typed SPAs)
-Data Layer      →  EF Core / Drizzle ORM across MSSQL, PostgreSQL, MySQL, Oracle
-Geospatial      →  OpenLayers + PostGIS for interactive mapping & spatial queries
-Caching         →  Redis for high-performance session & data caching
-Auth            →  Passport.js, JWT, role-based access control
+Desktop Apps    →  WinForms / DevExpress (enterprise-grade, data-heavy UIs)
+Web APIs        →  ASP.NET Core / NestJS / Express.js (RESTful, scalable backends)
+Web Frontends   →  React + TypeScript (modern, typed SPAs)
+Data Layer      →  EF Core / Drizzle ORM across MSSQL, PostgreSQL, Oracle, MySQL
+Auth            →  Passport.js, JWT, OAuth
+Caching         →  Redis for high-performance session & job-queue caching
 ```
+
+---
+
+## Selected Work
+
+| Project | Description |
+|---|---|
+| **[HealthJobsIndex](https://healthjobsindex.com)** | Healthcare job aggregation platform — React/TS SPA, Express API, PostgreSQL, n8n scraper pipeline |
+| **AutoPost** | AI resume builder & LinkedIn automation — pnpm/Turborepo monorepo, Express, Drizzle ORM, Passport JWT |
+| **[Write Engine](https://writeengine.apps.devmechanix.com/)** | AI proposal & content generation tool — Vue 3, Laravel, n8n workflows |
+| **[TEA Solution](https://siisol.com/)** | Techno-Economic Analysis software for green-hydrogen/industrial energy — C#, WinForms, DevExpress, .NET 8 |
+| **WFP Management Dashboard** | Enterprise dashboard for the Benazir Nashonuma Programme — ASP.NET Core 8, Clean Architecture, CQRS, EF Core on Oracle 19c |
 
 ---
 
@@ -107,8 +114,7 @@ Auth            →  Passport.js, JWT, role-based access control
 | Domain | Details |
 |---|---|
 | **Fintech** | Payment processing, financial data pipelines, secure transaction systems |
-| **Geospatial / GIS** | Location-aware apps with OpenLayers maps and PostGIS spatial queries |
-| **Enterprise Desktop** | Data-intensive WPF/WinForms apps for business operations |
+| **Enterprise Desktop** | Data-intensive WinForms apps for business operations |
 | **SaaS / Web Platforms** | Multi-tenant APIs, user management, reporting dashboards |
 
 ---
@@ -117,6 +123,7 @@ Auth            →  Passport.js, JWT, role-based access control
 
 *Open to collaborating on interesting projects — feel free to reach out!*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mefeb169.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mefeb169.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-mefeb169%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mefeb169@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-engrosama29%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:engrosama29@outlook.com)
 
